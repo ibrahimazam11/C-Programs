@@ -1,0 +1,4 @@
+1515	physics	1111	12/12/13	sami	mateen	phy
+1616	chemistry	7777	12/12/13	usman	imaad	chem
+1241	islamiat	1012	12/12/13	imran	ibrahim	islam
+1210	english	3333	12/12/12	ahsan	tahir	eng
